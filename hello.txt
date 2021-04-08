@@ -1,2 +1,4 @@
 Hello World
 Welcome to GIT
+going forward with git
+using BASH
